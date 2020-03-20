@@ -1,0 +1,7 @@
+{
+"mongoURI": "mongodb+srv://dubb123:dubb123@tradechat-imc6i.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "tradecompliance",
+	"githubClientId": "61db97dcc226cba17688",
+	"githubSecret": "358f359867ee98cf0e414962d8b8f70d37f06eac"
+}
+
