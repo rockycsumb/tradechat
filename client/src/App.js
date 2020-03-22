@@ -5,13 +5,6 @@ import Landing from './components/layout/Landing';
 import Routes from './components/routing/Routes';
 
 
-
-
-
-
-
-
-
 //redux
 import {Provider} from 'react-redux';
 import store from './store';

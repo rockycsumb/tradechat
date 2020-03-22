@@ -11,7 +11,7 @@ connectDB();
 app.use(express.json({extended: false}));
 app.use(cors({origin: 'https://mernstack-shrnureact.run-us-west2.goorm.io'}))
 
-//app.get('/', (req, res) => res.send('API RUNNING'));
+// app.get('/', (req, res) => res.send('API RUNNING'));
 
 // DEFINE ROUTES
 app.use('/api/users', require('./routes/api/users'));
